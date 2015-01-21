@@ -1,6 +1,6 @@
 {
   "rules": {
     "criticalpath":40,
-    "default": 90
+    "default": 0
   }
 }
