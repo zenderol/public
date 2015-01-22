@@ -1,5 +1,7 @@
 {
   "rules": {
+    "criticalpath":60,
+    "ycdn":0,
     "default": 20
   }
 }
