@@ -1,0 +1,12 @@
+{
+  "pollResults": 10,
+  "timeout": 600,
+  "firstViewOnly": false,
+  "private": true,
+  "aftRenderingTime": true,
+  "location": "Chrome:Chrome",
+  "video": false,
+  "emulateMobile": true,
+  "waterfall": true,
+  "runs" : 2
+}
